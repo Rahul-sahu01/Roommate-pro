@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Frontend build
+frontend/dist/
+
+# Backend build
+backend/dist/
+
+# Logs
+backend/logs/
+*.log
+
+# Test coverage
+coverage/
+
+# Vite cache
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
