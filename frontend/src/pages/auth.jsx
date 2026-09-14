@@ -173,14 +173,7 @@ export function Auth({ mode, onDone, onSwitch, notify }) {
               </>
             )}
           </div>
-
-          {mode === 'login' && (
-            <div className="demo-box">
-              <b>Demo admin</b>
-              <span>admin@roommate.local</span>
-              <span>Admin@12345</span>
-            </div>
-          )}
+          
         </div>
       </div>
     </section>
