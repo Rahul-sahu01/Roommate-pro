@@ -1,3 +1,5 @@
+Author - Rahul sahu
+
 # RoomMate Pro v4
 
 A polished rental marketplace + roommate matching platform with separate frontend and backend folders.
